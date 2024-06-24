@@ -1,4 +1,4 @@
-## Hello! My name is Mauricio.
+## Hello! My name is Mauricio. 👋
 
 I am a bachelor's student in Computer Science and Physics.
 
