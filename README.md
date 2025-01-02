@@ -1,7 +1,5 @@
 ## Hello! My name is Mauricio. 👋
 
-I am a bachelor's student in Computer Science and Physics.
-
 I am fascinated by the intersection of software development and scientific discovery. I am passionate about leveraging my coding expertise to develop modern solutions for pressing issues in research and enterprise.
 
 I recently completed a research internship Forschungszentrum Jülich, where I designed and tested novel algorithms and architectures for brain-inspired systems. Previously, I was a software engineer at Wayfair, where I improved the accessibility and security of essential data and applications for internal platforms. I also have experience as a peer tutor, where I supported undergraduate students in learning fundamental concepts and skills in computer science and mathematics.
