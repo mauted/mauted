@@ -1,16 +1,11 @@
 ## Hello! My name is Mauricio. 👋
 
-I am fascinated by the intersection of software development and scientific discovery. I am passionate about leveraging my coding expertise to develop modern solutions for pressing issues in research and enterprise.
+I am a software engineer and researcher driven by an insatiable curiosity for physics, mathematics, and the universe's deepest mysteries. As a recent graduate with real-world experience, I am passionate about building apps that change the world.
 
-I recently completed a research internship Forschungszentrum Jülich, where I designed and tested novel algorithms and architectures for brain-inspired systems. Previously, I was a software engineer at Wayfair, where I improved the accessibility and security of essential data and applications for internal platforms. I also have experience as a peer tutor, where I supported undergraduate students in learning fundamental concepts and skills in computer science and mathematics.
+My ambitions include pioneering research or entrepreneurial ventures that unify physics and software. Inspired by the laws of nature, I use first-principles thinking as my compass. I tackle problems with creative solutions, striving to push the limits of our imagination. 
 
-I am always eager to learn and grow, and to expand the frontiers of technology and design with my curiosity and creativity. Whether I am developing cutting-edge frontend applications or diving deep into the intricacies of complex algorithms, I am committed to making innovative contributions to the fields of technology and science. I am also open to collaborating and connecting with like-minded thinkers, and to exploring new possibilities and opportunities.
+I am always excited to chat with forward-thinking minds who share my vision to leverage science and technology to improve our quality of life.
 
-## Areas of interest
+Let's prepare the way for the future and beyond.
 
-I have a broad spectrum of interests. Full disclosure, I am not an expert in all of these but I strive to learn about all of these areas.
-
-- **Computer science:** Optimization, machine learning, formal verification, quantum computation, software architecture.
-- **Physics:** Statistical mechanics, condensed matter physics, quantum mechanics, fluid mechanics.
-- **Mathematics:** Combinatorics, cryptography, geometry (algebraic, differential), algorithms.
-- **Engineering:** Aerospace engineering, computer hardware.
+> If I have seen further, it is by standing on the shoulders of giants. –Isaac Newton
