@@ -1,6 +1,6 @@
 ## Hello! My name is Mauricio. 👋
 
-I am a software engineer and researcher driven by an insatiable curiosity for physics, mathematics, and the universe's deepest mysteries. As a recent graduate with real-world experience, I am passionate about building apps that change the world.
+I am a software engineer and researcher driven by an insatiable curiosity for physics, mathematics, and the universe's deepest mysteries. I am passionate about building apps that change the world.
 
 My ambitions include pioneering research or entrepreneurial ventures that unify physics and software. Inspired by the laws of nature, I use first-principles thinking as my compass. I tackle problems with creative solutions, striving to push the limits of our imagination. 
 
