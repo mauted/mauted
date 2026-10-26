@@ -1,3 +1,5 @@
+<img src="assets/banner.png" alt="Mauricio Tedeschi, Software Engineer" width="100%" />
+
 ## Hello! My name is Mauricio. 👋
 
 I am a software engineer and researcher driven by an insatiable curiosity for physics, mathematics, and the universe's deepest mysteries. I am passionate about building apps that change the world.
